@@ -1,4 +1,54 @@
-# Featured Projects
+<div align="center">
+
+# Hi, I'm Shirisha 👋
+
+### Creative & Interactive Frontend Developer
+
+Building immersive digital experiences with React, Three.js, GSAP, and modern web technologies.
+
+[🌐 Portfolio](https://shirishac-dev.vercel.app/) •
+[💼 LinkedIn](https://www.linkedin.com/in/shirisha-c) •
+[📧 Email](mailto:sirisha,pcsr@gmail.com)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a Creative & Interactive Frontend Developer with **6 years of experience** building modern web applications and immersive digital experiences.
+
+I enjoy crafting visually engaging interfaces, smooth interactions, and high-performance web experiences using modern frontend technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Creative Development
+- Three.js
+- React Three Fiber
+- GSAP
+- WebGL
+- GLSL Shaders
+
+### Tools
+- Git
+- GitHub
+- Vite
+- Figma
+
+---
+
+# ✨ Featured Projects
 
 ## 🦁 Animal Kingdom
 
@@ -10,80 +60,86 @@ An immersive wildlife experience featuring cinematic interactions and custom ima
 - Responsive experience
 - Interactive storytelling
 
-**Tech**
-React • Three.js • GSAP • TypeScript
+**Built With**
 
-🔗 Live Demo
+`React` • `Three.js` • `GSAP` 
 
-🔗 Repository
+🌐 Live Demo: https://animal-kingdom-archive.vercel.app/
 
 ---
 
 ## 🦋 Flutter
 
-An interactive particle experience where thousands of animated particles seamlessly morph into a butterfly, creating a mesmerizing visual journey.
+An interactive particle experience where **22,000+ particles** seamlessly morph into a butterfly, creating an engaging visual experience.
 
 **Highlights**
-- 22K+ particle simulation
-- Butterfly morphing animation
+- Particle morphing animation
 - GPU-optimized rendering
-- Smooth interactive motion
+- Interactive motion
+- Smooth performance
 
-**Tech**
-React • Three.js • React Three Fiber • GLSL • TypeScript
+**Built With**
 
-🔗 Live Demo
+`React Three Fiber` • `Three.js` • `GLSL` 
 
-🔗 Repository
+🌐 Live Demo: https://flutter-particles.vercel.app/
 
 ---
 
 ## 🎬 Cinematic Experience
 
-A cinematic web experience inspired by Guns N' Roses and classic anime aesthetics.
+A cinematic web experience inspired by the music of Guns N' Roses and the timeless aesthetic of classic anime.
 
 **Highlights**
 - Scroll-driven storytelling
 - Day-to-night transitions
-- Smooth page animations
-- Responsive design
+- Cinematic animations
+- Responsive layout
 
-**Tech**
-React • GSAP • TypeScript
+**Built With**
 
-🔗 Live Demo
+`React` • `GSAP` • `Three.js`
 
-🔗 Repository
+🌐 Live Demo: https://cinematic-web-experience.vercel.app/
 
 ---
 
 ## 🎨 Design Lab
 
-A collection of creative frontend experiments exploring motion, interaction and visual effects.
+A collection of creative frontend experiments exploring motion, interaction, shaders, and visual effects.
 
 **Includes**
 - GSAP experiments
-- Three.js experiments
-- Creative UI interactions
-- Motion prototypes
+- Three.js explorations
+- Interactive UI concepts
+- Motion design prototypes
 
-🔗 Live Demo
-
-🔗 Repository
+🌐 Live Demo: https://design-lab-sc.vercel.app/
 
 ---
 
-## 🏛 Tamil Nadu Tourism
+## 🌱 Currently Exploring
 
-A tourism website showcasing the rich culture, heritage and iconic destinations of Tamil Nadu through an engaging visual experience.
+- Advanced Three.js
+- WebGL & GLSL
+- Creative Development
+- Web Performance
+- AI-powered Frontend Experiences
 
-**Highlights**
-- Modern responsive UI
-- Smooth animations
-- Interactive layouts
-- Rich visual storytelling
+---
 
-🔗 Live Demo
+## 📫 Let's Connect
 
-🔗 Repository
+- 🌐 Portfolio: https://shirishac-dev.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/shirisha-c
+- 📧 Email: sirisha.pcsr@gmail.com
 
+---
+
+<div align="center">
+
+*"Great experiences aren't just built—they're crafted."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
