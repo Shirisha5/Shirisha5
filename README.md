@@ -2,7 +2,7 @@
 
 # Hi, I'm Shirisha 👋
 
-### Creative & Interactive Frontend Developer
+### Creative Frontend Developer
 
 Building immersive digital experiences with React, Three.js, GSAP, and modern web technologies.
 
@@ -16,7 +16,7 @@ Building immersive digital experiences with React, Three.js, GSAP, and modern we
 
 ## 👋 About Me
 
-I'm a Creative & Interactive Frontend Developer with **6 years of experience** building modern web applications and immersive digital experiences.
+I'm a Creative Frontend Developer with **6 years of experience** building modern web applications and immersive digital experiences.
 
 I enjoy crafting visually engaging interfaces, smooth interactions, and high-performance web experiences using modern frontend technologies.
 
