@@ -132,7 +132,6 @@ A collection of creative frontend experiments exploring motion, interaction, sha
 
 - 🌐 Portfolio: https://shirishac-dev.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/shirisha-c
-- 📧 Email: sirisha.pcsr@gmail.com
 
 ---
 
