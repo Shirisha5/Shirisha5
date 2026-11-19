@@ -3,10 +3,10 @@
   <!-- Animated Dark Header Banner -->
   <a href="https://shirishac-dev.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3200&pause=1000&color=F2F0EA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shirisha+%E2%80%94+Creative+Frontend+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js+%E2%80%A2+GLSL+%E2%80%A2+GSAP;Crafting+Interactive+3D+%26+Motion+Web+Experiences" alt="Typing Banner" />
-  </a>
+  </a>  
 
   <p>
-    Frontend Engineer with <b>6+ years of experience</b> building high-performance web applications, real-time 3D worlds, and custom shader interfaces.
+    Frontend Engineer with <b>6 years of experience</b> building high-performance web applications, real-time 3D worlds, and custom shader interfaces.
   </p>
 
   <!-- Clean Dark Pill Links -->
