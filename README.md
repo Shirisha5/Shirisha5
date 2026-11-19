@@ -11,11 +11,11 @@
 
   <!-- Clean Dark Pill Links -->
   <p>
-    <a href="https://design-lab-sc.vercel.app/"><img src="https://img.shields.io/badge/Design_Lab-Interactive_Hub-0d1117?style=for-the-badge&logo=threedotjs&logoColor=f2f0ea" alt="Design Lab" /></a>
-    <a href="https://shirishac-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Kronos_Minima-0d1117?style=for-the-badge&logo=vercel&logoColor=f2f0ea" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/shirisha-c"><img src="https://img.shields.io/badge/LinkedIn-Shirisha_C-0d1117?style=for-the-badge&logo=linkedin&logoColor=f2f0ea" alt="LinkedIn" /></a>
-    <a href="https://codepen.io/shiricreates"><img src="https://img.shields.io/badge/CodePen-@shiricreates-0d1117?style=for-the-badge&logo=codepen&logoColor=f2f0ea" alt="CodePen" /></a>
-    <a href="mailto:sirisha.pcsr@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0d1117?style=for-the-badge&logo=gmail&logoColor=f2f0ea" alt="Email" /></a>
+    <a href="https://design-lab-sc.vercel.app/"><img src="https://img.shields.io/badge/Design%20Lab-161b22?style=for-the-badge&logo=threedotjs&logoColor=f2f0ea" alt="Design Lab" /></a>
+    <a href="https://shirishac-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=f2f0ea" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/shirisha-c"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=f2f0ea" alt="LinkedIn" /></a>
+    <a href="https://codepen.io/shiricreates"><img src="https://img.shields.io/badge/CodePen-161b22?style=for-the-badge&logo=codepen&logoColor=f2f0ea" alt="CodePen" /></a>
+    <a href="mailto:sirisha.pcsr@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=f2f0ea" alt="Email" /></a>
   </p>
 
 </div>
@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://design-lab-sc.vercel.app/">
-        <img src="PASTE_DESIGN_LAB_IMAGE_URL" alt="Design Lab" width="100%" />
+        <img width="1912" height="967" src="https://github.com/user-attachments/assets/7cabee0d-34f9-490a-9ab0-231d3044a597" alt="Design Lab" width="100%"  />
       </a>
       <br />
       <h3>🎨 <a href="https://design-lab-sc.vercel.app/">Design Lab</a></h3>
@@ -37,7 +37,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://shirishac-dev.vercel.app/">
-        <img src="PASTE_WAVE_RESONANCE_IMAGE_URL" alt="Wave Resonance" width="100%" />
+        <img width="1910" height="966" src="https://github.com/user-attachments/assets/2487bcca-6c65-4369-8fd8-1b9eae6b8dcf" alt="Wave Resonance" width="100%" />
       </a>
       <br />
       <h3>🌊 <a href="https://shirishac-dev.vercel.app/">Wave Resonance</a></h3>
@@ -48,7 +48,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://shirishac-dev.vercel.app/">
-        <img src="PASTE_PIXIE_BLOOMLANDS_IMAGE_URL" alt="Pixie Bloomlands" width="100%" />
+        <img width="1901" height="965" alt="Pixie Bloomlands" width="100%" src="https://github.com/user-attachments/assets/d5bb4b8b-3d2a-4913-83a8-fa7997117684" />
       </a>
       <br />
       <h3>🧚 <a href="https://shirishac-dev.vercel.app/">Pixie Bloomlands</a></h3>
@@ -57,7 +57,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://cinematic-web-experience.vercel.app/">
-        <img src="PASTE_CINEMATIC_IMAGE_URL" alt="Horizon — Cinematic Experience" width="100%" />
+        <img width="1897" height="967" alt="p2" src="https://github.com/user-attachments/assets/83c5758a-9da5-41b9-88a8-55aa22bfe449" alt="Horizon — Cinematic Experience" width="100%"/>
       </a>
       <br />
       <h3>🎬 <a href="https://cinematic-web-experience.vercel.app/">Horizon — Cinematic Experience</a></h3>
@@ -68,7 +68,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://flutter-particles.vercel.app/">
-        <img src="PASTE_FLUTTER_IMAGE_URL" alt="Flutter" width="100%" />
+        <img width="1917" height="971" alt="Flutter" src="https://github.com/user-attachments/assets/52fb705a-734d-41b1-bc7d-c6166b480032"  alt="Flutter" width="100%"/>
       </a>
       <br />
       <h3>🦋 <a href="https://flutter-particles.vercel.app/">Flutter</a></h3>
@@ -77,7 +77,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://shirishac-dev.vercel.app/">
-        <img src="PASTE_KRONOS_MINIMA_IMAGE_URL" alt="Kronos Minima" width="100%" />
+        <img width="1912" height="967" alt="s1" src="https://github.com/user-attachments/assets/c45f27af-5224-4ce9-8613-1736e65a004e" alt="Kronos Minima" width="100%" />
       </a>
       <br />
       <h3>🛰️ <a href="https://shirishac-dev.vercel.app/">Kronos Minima — 3D Portfolio</a></h3>
@@ -109,21 +109,21 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/01a0eb99-43bb-7d0e-b786-112f6b787c51">
-        <img src="PASTE_GHOST_IMAGE_URL" alt="Wandering Ghost" width="100%" />
+        <img src="https://github.com/user-attachments/assets/92f1b4bb-5b94-45ab-88ef-25e63635baba" alt="Wandering Ghost" width="100%" />
         <br />
         <b>01. Wandering Ghost</b>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/qBVRwZe">
-        <img src="PASTE_PIZZA_IMAGE_URL" alt="Cosmic Pizza Abduction" width="100%" />
+        <img src="https://github.com/user-attachments/assets/e9b88b44-8c71-4785-8e36-308349c9b38a" alt="Cosmic Pizza Abduction" width="100%" />
         <br />
         <b>02. Cosmic Pizza Abduction</b>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/01a0632c-5ac0-73f0-9a9d-ac6865d9259f">
-        <img src="PASTE_TOTORO_IMAGE_URL" alt="Totoro in the Rain" width="100%" />
+        <img src="https://github.com/user-attachments/assets/892812c7-fbb4-4e4e-b48a-a6039b885acd" alt="Totoro in the Rain" width="100%" />
         <br />
         <b>03. Totoro in the Rain</b>
       </a>
@@ -132,14 +132,14 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/01a062ce-b463-7355-9a5f-8bfa60784ee8">
-        <img src="PASTE_CLONIES_IMAGE_URL" alt="Dusk of the Clonies" width="100%" />
+        <img src="https://github.com/user-attachments/assets/075fba9b-97c9-4699-92f1-48c987bd45f4" alt="Dusk of the Clonies" width="100%" />
         <br />
         <b>04. Dusk of the Clonies</b>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/VwrPqxj">
-        <img src="PASTE_POKEMON_IMAGE_URL" alt="Pokemon Blinking Eyes" width="100%" />
+        <img src="https://github.com/user-attachments/assets/a69c2e82-181d-4a6f-97f1-89ea606a8698" alt="Pokemon Blinking Eyes" width="100%" />
         <br />
         <b>05. Pokemon Blinking Eyes</b>
       </a>
