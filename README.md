@@ -111,22 +111,22 @@
       <a href="https://codepen.io/shiricreates/pen/01a0eb99-43bb-7d0e-b786-112f6b787c51">
         <img src="https://github.com/user-attachments/assets/92f1b4bb-5b94-45ab-88ef-25e63635baba" alt="Wandering Ghost" width="100%" />
         <br />
-        <b>Wandering Ghost</b>
       </a>
+      <b>Wandering Ghost</b>
     </td>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/qBVRwZe">
         <img src="https://github.com/user-attachments/assets/e9b88b44-8c71-4785-8e36-308349c9b38a" alt="Cosmic Pizza Abduction" width="100%" />
         <br />
-        <b>Cosmic Pizza Abduction</b>
       </a>
+      <b>Cosmic Pizza Abduction</b>
     </td>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/01a0632c-5ac0-73f0-9a9d-ac6865d9259f">
         <img src="https://github.com/user-attachments/assets/892812c7-fbb4-4e4e-b48a-a6039b885acd" alt="Totoro in the Rain" width="100%" />
         <br />
-        <b>Totoro in the Rain</b>
       </a>
+      <b>Totoro in the Rain</b>
     </td>
   </tr>
   <tr>
@@ -134,8 +134,8 @@
       <a href="https://codepen.io/shiricreates/pen/01a062ce-b463-7355-9a5f-8bfa60784ee8">
         <img src="https://github.com/user-attachments/assets/075fba9b-97c9-4699-92f1-48c987bd45f4" alt="Dusk of the Clonies" width="100%" />
         <br />
-        <b>Dusk of the Clonies</b>
       </a>
+      <b>Dusk of the Clonies</b>
     </td>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates/pen/VwrPqxj">
