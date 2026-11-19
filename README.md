@@ -141,8 +141,8 @@
       <a href="https://codepen.io/shiricreates/pen/VwrPqxj">
         <img src="https://github.com/user-attachments/assets/a69c2e82-181d-4a6f-97f1-89ea606a8698" alt="Pokemon Blinking Eyes" width="100%" />
         <br />
-        <b>Pokemon Blinking Eyes</b>
       </a>
+      <b>Pokemon Blinking Eyes</b>
     </td>
     <td align="center" width="33%">
       <a href="https://codepen.io/shiricreates">
