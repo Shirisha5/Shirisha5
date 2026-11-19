@@ -6,6 +6,10 @@
   </a>  
 
   <p>
+    <img src="./mainbanner.svg" alt="Soot Sprites" width="100%" />
+  </p>
+
+  <p>
     Frontend Engineer with <b>6 years of experience</b> building high-performance web applications, real-time 3D worlds, and custom shader interfaces.
   </p>
 
