@@ -6,7 +6,7 @@
   </a>  
 
   <p>
-    <img src="./mainbanner.svg" alt="Soot Sprites" width="100%" />
+    <img src="./sprites.svg" alt="Soot Sprites" width="100%" />
   </p>
 
   <p>
