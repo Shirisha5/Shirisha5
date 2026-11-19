@@ -31,7 +31,7 @@
         <img width="1912" height="967" src="https://github.com/user-attachments/assets/7cabee0d-34f9-490a-9ab0-231d3044a597" alt="Design Lab" width="100%"  />
       </a>
       <br />
-      <h3>🎨 <a href="https://design-lab-sc.vercel.app/" target="_blank">Design Lab</a></h3>
+      <h3>🎨 <a href="https://design-lab-sc.vercel.app/" target="_blank" style="text-decoration: none;">Design Lab</a></h3>
       <p>Central interactive sandbox housing WebGL prototypes, custom shader studies, audio-reactive visuals, and kinetic motion experiments.</p>
       <p><code>Three.js</code> <code>React Three Fiber</code> <code>GLSL</code> <code>GSAP</code></p>
     </td>
